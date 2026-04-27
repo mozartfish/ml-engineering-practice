@@ -6,10 +6,10 @@ A repo of exercises and practicing machine learning with a focus on audio machin
 
 - `Audio Signal Processing for Machine Learning` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=fwHfujBQ-p2mMJJH)
 - `Audio Data Augmentation` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW&si=1gb8okyTllJrbYia)
+- `Deep Learning for Audio with Python` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=478KyZWYeG7MyPFf)
 
 ## In Progress
-- `Deep Learning for Audio with Python` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&si=478KyZWYeG7MyPFf)
-- `PyTorch for Audio + Music Processing`
+- `PyTorch for Audio + Music Processing` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=ve3SMjwNyONck_S9)
 - `Generating Sound with Neural Networks`
 - `Melody Generation with RNN-LSTM`
 - `Generative Music AI Course`
