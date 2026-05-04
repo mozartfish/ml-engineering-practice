@@ -10,9 +10,11 @@ A repo of exercises and practicing machine learning with a focus on audio machin
 
 ## In Progress
 - `Generating Sound with Neural Networks` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&si=EAdWU29oFUj1UG4o)
-- `Melody Generation with RNN-LSTM`
-- `Generative Music AI Course`
-- `The Monster Text To Speech and Voice Cloning Course`
+
+## TODO
+- `Generative Music AI Course` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&si=behixNN99UNL0Hv9)
+- `Melody Generation with RNN-LSTM` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=_GuXYLSyDlAe3M4o)
+- `The Monster Text To Speech and Voice Cloning Course` [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=SmT7E5J2HnCCAnv_)
 
 ### Important Documentation 
 - [TorchAudio](https://docs.pytorch.org/audio/stable/index.html)
