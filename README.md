@@ -14,3 +14,8 @@ A repo of exercises and practicing machine learning with a focus on audio machin
 - `Melody Generation with RNN-LSTM`
 - `Generative Music AI Course`
 - `The Monster Text To Speech and Voice Cloning Course`
+
+### Important Documentation 
+- [TorchAudio](https://docs.pytorch.org/audio/stable/index.html)
+- [TorchCodec](https://meta-pytorch.org/torchcodec/stable/index.html)
+- [TorchInfo](https://github.com/tyleryep/torchinfo)
