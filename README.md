@@ -14,6 +14,8 @@ A repo of exercises and practicing machine learning with a focus on audio machin
 ## TODO
 - `Generative Music AI Course` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&si=behixNN99UNL0Hv9)
 - `Melody Generation with RNN-LSTM` - [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz&si=_GuXYLSyDlAe3M4o)
+- `Music and AI` - [website](https://hermandong.com/teaching/pat463_563_fall2025/)
+- `Generative AI for Music and Audio Creation` - [website](https://hermandong.com/teaching/pat464_564_winter2026/)
 - `The Monster Text To Speech and Voice Cloning Course` [playlist](https://youtube.com/playlist?list=PL-wATfeyAMNorsfMFg0ISfD0rPDpMHA4R&si=SmT7E5J2HnCCAnv_)
 
 ### Important Documentation 
